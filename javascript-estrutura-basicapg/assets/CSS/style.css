@@ -1,4 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
 body {
     height: 95vh;
     width: 95vw;
@@ -9,4 +16,15 @@ body {
     background-color:#6060ab;
     color: #fff;
     font-family: 'Press Start 2P', cursive;
+}
+
+#currentNumber {
+    font-size: 26px;
+margin-top: 10PX;
+    border: 3px solid #fff;
+    padding: 20px;
+}
+button {
+    padding: 5px 10px;
+    margin-top: 10px;
 }
