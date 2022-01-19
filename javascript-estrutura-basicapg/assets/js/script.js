@@ -1,3 +1,5 @@
+alert("Welcome!!!");
+
 var currentNumberWrapper = document.getElementById('currentNumber');
 var currentNumber =  0;
 
