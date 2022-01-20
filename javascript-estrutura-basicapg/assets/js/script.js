@@ -21,3 +21,15 @@ function decrement() {
     }
     
 }
+
+function alerta(){
+    switch (currentNumber){
+        case currentNumberWrapper == 10:
+            alert("Fim da contagem");
+        break;
+
+        case currentNumberWrapper == 0:
+            alert("esse é o minimo da contagem");
+        break;
+    }
+}
