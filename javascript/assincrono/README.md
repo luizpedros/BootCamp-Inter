@@ -4,3 +4,8 @@
 
 #### Utilizei a API https://thatcopy.pw/catapi/rest para fazer as chamadas com o método fetch() 
 #### Manipulei o DOM para criar a imagem e ativar o evento de clique do botão!
+
+
+## Demo
+
+![catAPI](./api-cats.gif)
