@@ -8,4 +8,4 @@
 
 ## Demo
 
-![catAPI](./api-cats.gif)
+![catAPI](./api-cats.gif);
