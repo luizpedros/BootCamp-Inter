@@ -1,4 +1,4 @@
-## Usando uma APIs
+## Práticanso Assíncrono e uilizando uma API
 
 ### Desenvolvi uma página que carrega fotos aleatórias de gatinhos sempre que clicamos em um botão.
 
